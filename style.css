@@ -1,0 +1,7 @@
+body{
+    background-color: aquamarine;
+    box-shadow: 4px 5px 6px ;
+    color: darkred;
+    text-align: center;
+    box-shadow: inset 3px 4px 5px ;
+}
